@@ -1,0 +1,2 @@
+Muốn chạy được server vào Visual studio để chạy vì chạy trên file exe sẽ có lỗi 
+không lấy được file data.txt và user.txt nên sẽ làm chương trình đứng khi truy cập file data.txt và user.txt
